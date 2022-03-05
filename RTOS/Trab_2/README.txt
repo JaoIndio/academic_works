@@ -1,7 +1,7 @@
 
 
-
-
+* documentacao1.pdf apresenta a concepção do projeto.
+* documentacao2.pdf apresenta a lógica de implementação.
 
 * no diretorio que se encontra o código fonte crie os diretórios bin e data
 * compile e execute
