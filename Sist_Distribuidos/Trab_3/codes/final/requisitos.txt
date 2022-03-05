@@ -1,0 +1,20 @@
+
+
+       * APLICACAO JAVA                                         [ OK ]
+  --------------------------------------------------------------------------
+  |                                                                        |
+  |                              Midlware                                  |
+  |    * COMUNICACAO MULTICAST ATRAVES DE ENVIO DE MSGs UNICAST [ OK ]     |
+  |    * DESCOBERTA DOS PARTICIPANTES                           [ OK ]     |
+  |    * TROCA DE MENSAGENS ENTRE PARTICIPANTES                 [ OK ]     |
+  |    * ORDENARDOR                                             [ OK ]     |
+  |    * ESTABILIZADOR                                          [ OK ]     |
+  |    * INTERFACE deliver()                                    [ OK ]     |
+  |    * ENVIO UNICAST UNITARIO                                 [ OK ]     |
+  |                                                                        |
+  --------------------------------------------------------------------------
+
+
+
+
+

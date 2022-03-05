@@ -1,0 +1,133 @@
+C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MIPS_package
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/RegisterNbits.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterNbits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterNbits
+-- Compiling architecture behavioral of RegisterNbits
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPS_monocycle_tb
+-- Compiling architecture structural of MIPS_monocycle_tb
+-- Loading package MIPS_package
+-- Loading entity MIPS_monocycle
+-- Loading package Util_pkg
+-- Loading entity Memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/DataPath.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\DataPath.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MIPS_package
+-- Compiling entity DataPath
+-- Compiling architecture structural of DataPath
+-- Loading entity RegisterNbits
+-- Loading entity RegisterFile
+-- Loading entity ALU
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPS_multicycle_tb
+-- Compiling architecture structural of MIPS_multicycle_tb
+-- Loading entity MIPS_multicycle
+-- Loading package Util_pkg
+-- Loading entity Memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package MIPS_package
+-- Compiling entity MIPS_monocycle
+-- Compiling architecture structural of MIPS_monocycle
+-- Loading entity ControlPath
+-- Loading entity DataPath
+-- Compiling architecture behavioral of MIPS_monocycle
+-- Loading entity MIPS_monocycle
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package Util_pkg
+-- Compiling entity Memory
+-- Compiling architecture BlockRAM of Memory
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_package.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\MIPS_package.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package MIPS_package
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/RegisterFile.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterFile.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RegisterFile
+-- Compiling architecture structural of RegisterFile
+-- Loading entity RegisterNbits
+-- Compiling architecture behavioral of RegisterFile
+-- Loading entity RegisterFile
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/ControlPath.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ControlPath.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package MIPS_package
+-- Compiling entity ControlPath
+-- Compiling architecture behavioral of ControlPath
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MIPSES_tb
+-- Compiling architecture structural of MIPSES_tb
+-- Loading entity MIPS_multicycle
+-- Loading package Util_pkg
+-- Loading entity Memory
+-- Loading package MIPS_package
+-- Loading entity MIPS_monocycle
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package Util_pkg
+-- Compiling package body Util_pkg
+-- Loading package Util_pkg
+
+} {} {}}

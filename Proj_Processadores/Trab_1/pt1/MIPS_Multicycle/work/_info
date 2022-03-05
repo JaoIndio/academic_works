@@ -1,0 +1,588 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu
+Z0 w1584533123
+Z1 DPx4 work 12 mips_package 0 22 gcM0^;cQ`BaZE;di6`S3G1
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle
+Z6 8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ALU.vhd
+Z7 FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ALU.vhd
+l0
+L11
+VWDc3k`OS1cGFLfGUb_9@X0
+!s100 ^eTRFa9I<Sicl4OA5MF5@0
+Z8 OP;C;10.4a;61
+32
+Z9 !s110 1584548338
+!i10b 1
+Z10 !s108 1584548338.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ALU.vhd|
+Z12 !s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ALU.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+Z15 DEx4 work 3 alu 0 22 WDc3k`OS1cGFLfGUb_9@X0
+l25
+L21
+Vo5@k=4W^0Xaa[3_Rh<^`J1
+!s100 D5F`iQM^^L]TU5F7NMOhg1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Econtrolpath
+Z16 w1584533230
+R1
+R3
+R4
+R5
+Z17 8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ControlPath.vhd
+Z18 FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ControlPath.vhd
+l0
+L12
+VzbzFI4[W5BeCNiNIV:Q[G3
+!s100 >dE=Cf1[VGFi3Nzb[?z042
+R8
+32
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ControlPath.vhd|
+Z20 !s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\ControlPath.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R3
+R4
+Z21 DEx4 work 11 controlpath 0 22 zbzFI4[W5BeCNiNIV:Q[G3
+l36
+L22
+VjnGR]fYHB[N<b=ndWf>9M3
+!s100 CZ5gOc1]USgLj7Cg3YL8e2
+R8
+32
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14
+Edatapath
+Z22 w1584533200
+R1
+R2
+R3
+R4
+R5
+Z23 8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\DataPath.vhd
+Z24 FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\DataPath.vhd
+l0
+L13
+V8o@BP:om:fOYZOMJEmcLD1
+!s100 @nPj2g>M`Sgoi1D@VGm]f3
+R8
+32
+R9
+!i10b 1
+R10
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\DataPath.vhd|
+Z26 !s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\DataPath.vhd|
+!i113 1
+R13
+R14
+Astructural
+R15
+Z27 DEx4 work 12 registerfile 0 22 WZBPQ:jAPMU8Fn2Z44XhF0
+Z28 DEx4 work 13 registernbits 0 22 nRlVcG;LZ0h4h=O^0mWWk0
+R1
+R2
+R3
+R4
+Z29 DEx4 work 8 datapath 0 22 8o@BP:om:fOYZOMJEmcLD1
+l48
+L30
+V:zI8hDe9PkbiM7?nUciTZ0
+!s100 m:fnkz3cSDR9@fAG63jH>1
+R8
+32
+R9
+!i10b 1
+R10
+R25
+R26
+!i113 1
+R13
+R14
+Ememory
+Z30 w1584381781
+Z31 DPx4 work 8 util_pkg 0 22 _I3LT8<7ig6Uz:2^MkQkM0
+R2
+R3
+R4
+R5
+Z32 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd
+Z33 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd
+l0
+L14
+V^:aURNhFWjb6LIb494^Ok0
+!s100 ][WGH9i6?:dS0I3ca_en12
+R8
+32
+Z34 !s110 1584548337
+!i10b 1
+Z35 !s108 1584548337.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd|
+Z37 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Memory.vhd|
+!i113 1
+R13
+R14
+Ablockram
+R31
+R2
+R3
+R4
+Z38 DEx4 work 6 memory 0 22 ^:aURNhFWjb6LIb494^Ok0
+l52
+L30
+V9c]aPj_4[`lS9cR`=MQFK2
+!s100 >ONlJYOJ1;Je7a7DbJGz>0
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14
+Emips_monocycle
+Z39 w1584535019
+R1
+R2
+R3
+R4
+R5
+Z40 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd
+Z41 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd
+l0
+L11
+VLifZm[bdf8T^TjX:lfoI<0
+!s100 m76^mI3Ic<zXP8XdeVJ5@2
+R8
+32
+R34
+!i10b 1
+R35
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd|
+Z43 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+Z44 DEx4 work 14 mips_monocycle 0 22 LifZm[bdf8T^TjX:lfoI<0
+l103
+L68
+Vib6ho[d8`TgGzf`FN:al[0
+!s100 DSni4E97DobZkH5V:_IAS3
+R8
+32
+R34
+!i10b 1
+R35
+R42
+R43
+!i113 1
+R13
+R14
+Astructural
+R29
+R21
+R1
+R2
+R3
+R4
+R44
+l35
+L31
+V]FWN;V2zBkJ:1F3ggmESn3
+!s100 U0?lLH8`zSJMn][M]MBVl1
+R8
+32
+R34
+!i10b 1
+R35
+R42
+R43
+!i113 1
+R13
+R14
+Emips_monocycle_tb
+Z45 w1584539576
+R2
+R3
+R4
+R5
+Z46 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd
+Z47 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd
+l0
+L10
+V8YWXY5JdMJ`8j85Nn:6YY3
+!s100 @9Jj984m=Uj1X5jjCTj323
+R8
+32
+R34
+!i10b 1
+R35
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd|
+Z49 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_monocycle_tb.vhd|
+!i113 1
+R13
+R14
+Astructural
+R31
+R38
+R1
+R44
+R2
+R3
+R4
+DEx4 work 17 mips_monocycle_tb 0 22 8YWXY5JdMJ`8j85Nn:6YY3
+l22
+L13
+VHC0PaJY]N575@XSk6FO6b1
+!s100 [9EfDbGM0EEbDAFMPB`:_0
+R8
+32
+R34
+!i10b 1
+R35
+R48
+R49
+!i113 1
+R13
+R14
+Emips_multicycle
+Z50 w1584554626
+R2
+R3
+R4
+R5
+Z51 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle.vhd
+Z52 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle.vhd
+l0
+L10
+VbC0lDIS7CZY9Pf8ZH3EW60
+!s100 5?FN7_SUlo<jM7E<GM<c_3
+R8
+32
+Z53 !s110 1584554727
+!i10b 1
+Z54 !s108 1584554727.000000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle.vhd|
+Z56 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+Z57 DEx4 work 15 mips_multicycle 0 22 bC0lDIS7CZY9Pf8ZH3EW60
+l78
+L30
+VV4cnanQa55^^kHmJEdHiJ3
+!s100 RkY9ZekkXo4WmQ`EO7BE<0
+R8
+32
+R53
+!i10b 1
+R54
+R55
+R56
+!i113 1
+R13
+R14
+Emips_multicycle_tb
+Z58 w1584539525
+R2
+R3
+R4
+R5
+Z59 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd
+Z60 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd
+l0
+L10
+VXJE_L4QLNGJROIW36?:<f3
+!s100 =IU<liL8nIW5K@MPgRH4V3
+R8
+32
+R34
+!i10b 1
+R35
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd|
+Z62 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPS_multicycle_tb.vhd|
+!i113 1
+R13
+R14
+Astructural
+R31
+R38
+R57
+R2
+R3
+R4
+DEx4 work 18 mips_multicycle_tb 0 22 XJE_L4QLNGJROIW36?:<f3
+l22
+L13
+VZ>UYkjXVE=eb6EoY;c:`J3
+!s100 7gYn7QkdkeRlIDN7TTLEi1
+R8
+32
+R34
+!i10b 1
+R35
+R61
+R62
+!i113 1
+R13
+R14
+Pmips_package
+R3
+R4
+w1584532869
+R5
+8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\MIPS_package.vhd
+FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\MIPS_package.vhd
+l0
+L9
+VgcM0^;cQ`BaZE;di6`S3G1
+!s100 ^oSTFJjS[8oF=5N];8POF2
+R8
+32
+R9
+!i10b 1
+R10
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\MIPS_package.vhd|
+!s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\MIPS_package.vhd|
+!i113 1
+R13
+R14
+Emipses_tb
+Z63 w1584488561
+R2
+R3
+R4
+R5
+Z64 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd
+Z65 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd
+l0
+L10
+V0zdS3IfFDMWZ[gd;<6^>a0
+!s100 PG8e4R`Z>melB884kdAbg3
+R8
+32
+R9
+!i10b 1
+R35
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd|
+Z67 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/MIPSES_tb.vhd|
+!i113 1
+R13
+R14
+Astructural
+R1
+R44
+R31
+R38
+R57
+R2
+R3
+R4
+DEx4 work 9 mipses_tb 0 22 0zdS3IfFDMWZ[gd;<6^>a0
+l24
+L13
+V:fBWAF`i256ZX4PJ[]eTa3
+!s100 HW:S@jKFBWB<h^;Rc[D:42
+R8
+32
+R9
+!i10b 1
+R35
+R66
+R67
+!i113 1
+R13
+R14
+Eregisterfile
+Z68 w1584533069
+R2
+R3
+R4
+R5
+Z69 8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterFile.vhd
+Z70 FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterFile.vhd
+l0
+L13
+VWZBPQ:jAPMU8Fn2Z44XhF0
+!s100 3?P8zI7;7DioR[I]D?QRX0
+R8
+32
+R9
+!i10b 1
+R10
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterFile.vhd|
+Z72 !s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterFile.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R27
+l72
+L66
+VW`1c@Vo[^M<]dfO:bEhDz2
+!s100 OA5CiA0F4e9m87A8[LV3`2
+R8
+32
+R9
+!i10b 1
+R10
+R71
+R72
+!i113 1
+R13
+R14
+Astructural
+R28
+R2
+R3
+R4
+R27
+l33
+L27
+V[]jg1ULClc:mURf_6dQ>J1
+!s100 eOUM[^O_A5RcV<_OD>W;b3
+R8
+32
+R9
+!i10b 1
+R10
+R71
+R72
+!i113 1
+R13
+R14
+Eregisternbits
+Z73 w1584533024
+R2
+R3
+R4
+R5
+Z74 8C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterNbits.vhd
+Z75 FC:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterNbits.vhd
+l0
+L11
+VnRlVcG;LZ0h4h=O^0mWWk0
+!s100 NRQMEdZ8WTdUfi<]DYGn^3
+R8
+32
+R9
+!i10b 1
+R10
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterNbits.vhd|
+Z77 !s107 C:\Modeltech_pe_edu_10.4a\MIPS_Multicycle\RegisterNbits.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+R28
+l27
+L26
+V[5MmPg4iP4_G9dC;;Oa<m3
+!s100 H_bA0EnZGdTaEe_`YljUB1
+R8
+32
+R9
+!i10b 1
+R10
+R76
+R77
+!i113 1
+R13
+R14
+Putil_pkg
+R3
+R4
+Z78 w1584381858
+R5
+Z79 8C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd
+Z80 FC:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd
+l0
+L9
+V_I3LT8<7ig6Uz:2^MkQkM0
+!s100 @972QfOb<FP<94TAb6;l<0
+R8
+32
+b1
+R34
+!i10b 1
+R35
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd|
+Z82 !s107 C:/Modeltech_pe_edu_10.4a/MIPS_Multicycle/Util_pkg.vhd|
+!i113 1
+R13
+R14
+Bbody
+R31
+R3
+R4
+l0
+L22
+VD0NdFd2N?Zf;WTWdXK]5z2
+!s100 ^aAcf7JT3cMzg_VWdaLXg3
+R8
+32
+R34
+!i10b 1
+R35
+R81
+R82
+!i113 1
+R13
+R14
+nbody
