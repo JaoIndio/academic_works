@@ -25,4 +25,6 @@
          Ao errar a sequência, a saída game over deve ficar ativa até o início 
           de um novo jogo (start)
 
+  A especificação completa encontra-se em Trab_1.pdf 
+
 --------------------------------------------------------------------------
