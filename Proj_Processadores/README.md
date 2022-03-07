@@ -1,11 +1,13 @@
+# Projeto de Processadores
+
 ----------------------------------------------------------------------------
   
   Neste diretorio econtra-se  
   
-  * Implementação do processador MIPS, perféricos e interface do sistema 
+    Implementação do processador MIPS, perféricos e interface do sistema 
     computacional com o mundo externo a nível RTL em linguagem VHDL
 
-  * Implementação, em assembly, de recursos operacionais simples como:
+    Implementação, em assembly, de recursos operacionais simples como:
       - Gerenciamento de interrupções
       - Gerenciamento de exceções
       - Chamadas de sistema
