@@ -9,4 +9,5 @@
   
   Trab_3
   
-     Implementação de um middleware para  envio  de  mensagens multicast que obedecem a ordem causal,  bem  como  implementação de um  controle  de  estabilização  para descarte  de  mensagens.
+     Implementação de um middleware para  envio  de  mensagens multicast que obedecem a ordem causal,
+bem  como  implementação de um  controle  de  estabilização  para descarte  de  mensagens.
